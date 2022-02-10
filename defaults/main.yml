@@ -25,3 +25,5 @@ rclone_man_pages:
 rclone_config_owner:
   OWNER: root
   GROUP: root
+
+rclone_skip_install: false
